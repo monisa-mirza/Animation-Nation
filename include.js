@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'monisa-animation',
+    pageLink: './Art/Joy/monisa-animation/index.html',
+    imageLink: './Art/Joy/monisa-animation/animate.gif',
+    author: 'Monisa Mirza',
+    githubLink: 'https://github.com/monisa-mirza'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
